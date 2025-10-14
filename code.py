@@ -13,7 +13,10 @@ if (storyFile = 'God Of War'):
   print("Episode 8: The Wonder (Description: Never Trust An Ares)(6 Hours)")
   print("Episode 9: The Aspect Of Pure Evil (Description: Never Trust An Ares)(9 Hours)")
 
-GOW
+elif (storyFile = 'Imperceptible Manipulation'):
+  print("Episode 1: Humble Beginnings (Description: How It All Started)(3 Hours)")
+  print("Episode 2: The Last Sign Of Immortality (Description: He's Too Good)(5 Hours)")
+  print("Episode 3: Coming Soon")
 
 
   
