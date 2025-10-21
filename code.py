@@ -16,7 +16,8 @@ if (storyFile = 'God Of War'):
 elif (storyFile = 'Imperceptible Manipulation'):
   print("Episode 1: Humble Beginnings (Description: How It All Started)(3 Hours)")
   print("Episode 2: The Last Sign Of Immortality (Description: He's Too Good)(5 Hours)")
-  print("Episode 3: Coming Soon")
+  print("Episode 3: Triple Threat (Description: There's three too many!)(2 Hours)")
+  print("Episode 4: A British Betrayal (Description: The Second American Revolution)(4 Hours)")
 
 
   
