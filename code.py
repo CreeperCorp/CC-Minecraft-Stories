@@ -42,8 +42,11 @@ elif (storyFile == 'A Wonderous Past'):
   print("After discovering that CreepSplotion was about to kill UnScr3pted, the owner of the Wonderous SMP, and ban him for the next 3 seasons, Boosfer travels back in time before Season 1, to discover a way to stop it.")
   print("Episode 1: The First First Ever Wonder (Description: Is It Truly Scripted, If There's No Script?)(7 Hours)")
   print("Episode 2: Ninety (Description: There's No Escape From Occupied)(5 Hours)")
+  print("Episode 3: ImBoosfer (Description: He Can't Go Back... Or It Will Ruin Everything)(3 Hours)")
 
 elif (storyFile == 'A Wonderous Future'):
   print("After Boosfer disapeared, his last known location being in The Wonderous Vault, Manepear has to take his place. But CreepSplotion is close to winning his game.")
   print("Episode 1: A Peary Situation (Description: Infiltrating The Vault)(5 Hours)")
   print("Episode 2: The Mane Suspect (Description: I Love Puns)(9 Hours)")
+  print("Episode 3: The Contract (Description: Signing off)(3 Hours)")
+  print("Episode 4: Another Dimension (Description: Oi It's Me PainPear!)(4 Hours)")
