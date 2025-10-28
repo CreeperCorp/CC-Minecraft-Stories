@@ -1,4 +1,4 @@
-print("Stories: God Of War, Imperceptible Manipulation")
+print("Stories: God Of War, Imperceptible Manipulation, The Wonderous Vault, A Wonderous Past, A Wonderous Future")
 
 storyFile = input("What Series Do You Want To See?: ")
 
@@ -43,6 +43,12 @@ elif (storyFile == 'A Wonderous Past'):
   print("Episode 1: The First First Ever Wonder (Description: Is It Truly Scripted, If There's No Script?)(7 Hours)")
   print("Episode 2: Ninety (Description: There's No Escape From Occupied)(5 Hours)")
   print("Episode 3: ImBoosfer (Description: He Can't Go Back... Or It Will Ruin Everything)(3 Hours)")
+  print("Episode 4: The Fourth Dimension (Description: Nobody's Found This Before)(4 Hours)")
+  print("Episode 5: Obtaining The Wonder (Description: Where There's A Will There's A Way)(5 Hours)")
+  print("Episode 6: Back To The Future (Description: But How Exactly?)(5 Hours)")
+  print("Episode 7: Termination (Description: Everything's wrong, and he's here)(3 Hours)")
+  print("Episode 8: A Devious Duo (Description: You Can Absolutely Go Wrong With Two)(6 Hours)")
+  print("Episode 9: Time Bomb (Description: One Shot)(9 Hours)")
 
 elif (storyFile == 'A Wonderous Future'):
   print("After Boosfer disapeared, his last known location being in The Wonderous Vault, Manepear has to take his place. But CreepSplotion is close to winning his game.")
@@ -50,3 +56,13 @@ elif (storyFile == 'A Wonderous Future'):
   print("Episode 2: The Mane Suspect (Description: I Love Puns)(9 Hours)")
   print("Episode 3: The Contract (Description: Signing off)(3 Hours)")
   print("Episode 4: Another Dimension (Description: Oi It's Me PainPear!)(4 Hours)")
+  print("Episode 5: Beneath The Void (Description: How Did I Fall Down Here)(3 Hours)")
+  print("Episode 6: Timeline Malware (Description: What Did Boosfer Do?)(4 Hours)")
+  print("Episode 7: Primal Season (Description: Going Back To Our Roots, Jungle Roots)(5 Hours)")
+  print("Episode 8: 24 Hour Clock (Description: Tick Glock)(9 Hours)")
+  print("Episode 9: The Dawn Of Demise (Description: Is This The End?)(9 Hours)")
+
+elif (storyFile == 'Polar Opposites'):
+  print("After CreepSplotion kills UnScr3pted, there is no owner of the Wonderous SMP, and that means, there's no rules. From the POV of Temp0rary and Joc3e, find a way to stop CreepSplotion and ban him from the season.")
+  print("Episode 1: Friends... (Description: Aren't We The Closest?)(3 Hours)")
+  print("Episode 2: ...To Enemies (Description: All Good Things Must Come To An End, I Think...)(4 Hours)")
