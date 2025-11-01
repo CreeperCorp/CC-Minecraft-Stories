@@ -66,3 +66,5 @@ elif (storyFile == 'Polar Opposites'):
   print("After CreepSplotion kills UnScr3pted, there is no owner of the Wonderous SMP, and that means, there's no rules. From the POV of Temp0rary and Joc3e, find a way to stop CreepSplotion and ban him from the season.")
   print("Episode 1: Friends... (Description: Aren't We The Closest?)(3 Hours)")
   print("Episode 2: ...To Enemies (Description: All Good Things Must Come To An End, I Think...)(4 Hours)")
+  print("Episode 3: Mystifying Background (Description: It was always bound to be Temp0rary)(3 Hours)")
+  print("Episode 4: Ice Cream (Description: Nothing That Ice Cream Can't Fix)(4 Hours)")
