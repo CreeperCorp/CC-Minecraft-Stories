@@ -1,4 +1,4 @@
-print("Stories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP)")
+print("\033[0mStories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP), Polar Opposites (WonderousSMP)")
 
 storyFile = input("What Series Do You Want To See?: ")
 
@@ -63,10 +63,10 @@ elif (storyFile == 'A Wonderous Future'):
   print("Episode 9: The Dawn Of Demise (Description: Is This The End?)(9 Hours)")
 
 elif (storyFile == 'Polar Opposites'):
-  print("After CreepSplotion kills UnScr3pted, there is no owner of the Wonderous SMP, and that means, there's no rules. From the POV of Temp0rary and Joc3e, find a way to stop CreepSplotion and ban him from the season.")
-  print("Episode 1: Friends... (Description: Aren't We The Closest?)(3 Hours)")
-  print("Episode 2: ...To Enemies (Description: All Good Things Must Come To An End, I Think...)(4 Hours)")
-  print("Episode 3: Mystifying Background (Description: It was always bound to be Temp0rary)(3 Hours)")
-  print("Episode 4: Ice Cream (Description: Nothing That Ice Cream Can't Fix)(4 Hours)")
-  print("Episode 5: KO (Description: A Temp0rary Alliance?)(5 Hours)")
-  print("Episode 6: Lonely (Description: He's Already Moved On)(4 Hours)")
+  print("After CreepSplotion kills UnScr3pted, there is no owner of the Wonderous SMP, and that means, there's no rules. From the POV of \033[35mTemp0rary\033[0m and \033[38;5;212mJoc3e\033[0m, find a way to stop CreepSplotion and ban him from the season.")
+  print("\033[35mEpisode 1: Friends... (Description: Aren't We The Closest?)(3 Hours)")
+  print("\033[38;5;212mEpisode 2: ...To Enemies (Description: All Good Things Must Come To An End, I Think...)(4 Hours)")
+  print("\033[35mEpisode 3: Mystifying Background (Description: It was always bound to be Temp0rary)(3 Hours)")
+  print("\033[38;5;212mEpisode 4: Ice Cream (Description: Nothing That Ice Cream Can't Fix)(4 Hours)")
+  print("\033[35mEpisode 5: KO (Description: A Temp0rary Alliance?)(5 Hours)")
+  print("\033[38;5;212mEpisode 6: Lonely (Description: He's Already Moved On)(4 Hours)\033[0m")
