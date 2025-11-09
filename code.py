@@ -1,4 +1,4 @@
-print("Stories: God Of War, Imperceptible Manipulation, The Wonderous Vault, A Wonderous Past, A Wonderous Future")
+print("Stories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP)")
 
 storyFile = input("What Series Do You Want To See?: ")
 
@@ -68,3 +68,5 @@ elif (storyFile == 'Polar Opposites'):
   print("Episode 2: ...To Enemies (Description: All Good Things Must Come To An End, I Think...)(4 Hours)")
   print("Episode 3: Mystifying Background (Description: It was always bound to be Temp0rary)(3 Hours)")
   print("Episode 4: Ice Cream (Description: Nothing That Ice Cream Can't Fix)(4 Hours)")
+  print("Episode 5: KO (Description: A Temp0rary Alliance?)(5 Hours)")
+  print("Episode 6: Lonely (Description: He's Already Moved On)(4 Hours)")
