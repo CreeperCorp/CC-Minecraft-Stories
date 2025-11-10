@@ -72,18 +72,26 @@ elif (storyFile == 'Polar Opposites'):
   print("\033[38;5;212mEpisode 6: Lonely (Description: He's Already Moved On)(4 Hours)\033[0m")
 
 elif (storyFile == 'QuantumSMP'):
-  print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include Manepear, Sharpness, Willison, & Anchor.")
+  print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include ManePear, Sharpness, Willison, & Anchor.")
   ifQuantumSMPTeams = input("Do you want to see QuantumSMP's teams?(yes/no): ")
   if (ifQuantumSMPTeams == 'yes'):
-    print("WillyPear (\x1b[33mManePear\033[0m-\033[90mWillison\033[0m); Allies: None, Enemies: Sharpness")
+    print("WillyPear (\x1b[33mManePear\033[0m-\x1b[30mWillison\033[0m); Allies: None, Enemies: \033[90mSharpness\033[0m-Boosfer")
     print("\033[31mAnchor\033[0m; Allies: None, Enemies: None")
     print("\033[90mSharpness\033[0m; Allies: None, Enemies: WillyPear")
   ifQuantumSMPLore = input("Do you want to see QuantumSMP's lore?(yes/no): ")
   if (ifQuantumSMPLore == 'yes'):
-    print("When ManePear joins he gets obby trapped at spawn by Boosfer, which he escapes with 3 hearts. After banning 3 players he gets full diamond and starts enchanting. This is when he meets Willy, who he teams with. Eventually ManePear and Willy come across Sharpness, who 2v1s them and almost wins if it weren't for Willy learning how to cart, which pops Sharpness' only totem.")
+    QuantumSMPLoreChoice = input("Who's lore do you want to see?: ")
+    if (QuantumSMPLoreChoice = "ManePear"):
+      print("\x1b[33mVideo 1: When ManePear joins he gets obby trapped at spawn by Boosfer, which he escapes with 3 hearts. After banning 3 players he gets full diamond and starts enchanting. This is when he meets Willy, who he teams with. Eventually ManePear and Willy come across Sharpness, who 2v1s them and almost wins if it weren't for Willy learning how to cart, which pops Sharpness' only totem.\033[0m")
+    elif (QuantumSMPLoreChoice = "Willison"):
+      print("\x1b[30mVideo 1: When Willison joins the server he gets jumped by Sharpness who tries to ban him from the server. After escaping he gets spotted by bounty hunters, and since Willison has a $1 bounty on his head they chase him. After fighting and killing two of the bounty hunters (the rest running away), Willison is found by ManePear. They then team up. After gearing for a bit, they come across Sharpness who 2v1s them. They were about to die if Willy didn't learn how to cart. Willy carted Sharpness with his only tnt minecart and popped his totem, sending Sharpness fleeing.\033[0m")
+    elif (QuantumSMPLoreChoice = "Anchor"): 
+      print("\033[31mVideo 1: Anchor joined the server at the very beginning, allowing him to gain the upper hand against mose other players. Anchor speedruns the nether, and gains a supply of anchors he can use in the overworld. This is when he hears that Boosfer is trying to get the dragon egg, he then races to find the stronghold. After finding the stronghold he gets trapped by Baablu, but after a very long fight is able to send Baablu running. After entering the end Anchor almost dies to falling off the platform, but clutches with a wind charge and a pearl. This is when the end fight starts. The end fight is between Anchor, Boosfer, Sharpness, Fanst, Dream, Rekrap2, Redoons, & Boomie. After a very long end fight, Rekrap leaves with the dragon egg, but Anchor, Boosfer, and Fanst are still in the end, not wanting to chase Rek. After another fight, Anchor beats Boosfer and Fanst, leaving them to run to the outer end islands to get elytras.\033[0m")
+    elif (QuantumSMPLoreChoice = "Sharpness"):
+      print("\033[90mVideo 1: After joining the server earlier than anyone else, Sharpness is able to speedrun gear but is only able to get half diamond before getting jumped by Spoke. Spoke already has an army and easily drains Sharpness, forcing him to hide in a cave. Inside this cave Sharpness finds a map, which would lead to a secret vault. However he is found by Redoons who was also looking for this map, after beating Redoons' team he flees to the nether to get potions. Sharpness meets Boosfer in a fortess, and has a fight with him over nether wart. After beating Boosfer Sharpness returns home and brews potions, but he realizes that Boosfer was rushing to the end. When rushing back to the nether to get blaze rods, Sharpness comes across Sapnap and destroys him in a 1v1. Sharpness eventually gets to the end, dodging Baablu's trap. Sharpness enters the end fight against Anchor, Boosfer, Fanst, Dream, Rekrap2, Redoons, & Boomie. Sharpness targets Redoons because Redoons was looking for the map he had. After forcing Redoons to leave as soon as the dragon was killed, Sharpness then attempts to chase Rek who got the dragon egg. However after a long chase Sharpness loses Rek who tunnels into a cave. \033[0m")
   ifQuantumSMPVideos = input("Do you want to see QuantumSMP's videos?(yes/no): ")
   if (ifQuantumSMPVideos == 'yes'):
     print("\x1b[33mManePear: Surviving The Smartest SMP (2 Hours)\033[0m")
     print("\033[90mSharpness: Becoming The Strongest On QuantumSMP (3 Hours)\033[0m")
     print("\033[31mAnchor: Anchoring The QuantumSMP (4 Hours)\033[0m")
-    print("\033[90mWillison: My First Day On The QuantumSMP (2 Hours)\033[0m")
+    print("\x1b[30mWillison: My First Day On The QuantumSMP (2 Hours)\033[0m")
