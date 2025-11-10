@@ -1,4 +1,4 @@
-print("\033[0mStories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP), Polar Opposites (WonderousSMP)")
+print("\033[0mStories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP), Polar Opposites (WonderousSMP), QuantumSMP")
 
 storyFile = input("What Series Do You Want To See?: ")
 
@@ -70,3 +70,6 @@ elif (storyFile == 'Polar Opposites'):
   print("\033[38;5;212mEpisode 4: Ice Cream (Description: Nothing That Ice Cream Can't Fix)(4 Hours)")
   print("\033[35mEpisode 5: KO (Description: A Temp0rary Alliance?)(5 Hours)")
   print("\033[38;5;212mEpisode 6: Lonely (Description: He's Already Moved On)(4 Hours)\033[0m")
+
+elif (storyFile == 'QuantumSMP'):
+  print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe.")
