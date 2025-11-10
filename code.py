@@ -73,6 +73,17 @@ elif (storyFile == 'Polar Opposites'):
 
 elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include Manepear, Sharpness, Willison, & Anchor.")
+  ifQuantumSMPTeams = input("Do you want to see QuantumSMP's teams?(yes/no): ")
+  if (ifQuantumSMPTeams == 'yes'):
+    print("WillyPear (\x1b[33mManePear\033[0m-\033[90mWillison\033[0m); Allies: None, Enemies: Sharpness")
+    print("\033[31mAnchor\033[0m; Allies: None, Enemies: None")
+    print("\033[90mSharpness\033[0m; Allies: None, Enemies: WillyPear")
   ifQuantumSMPLore = input("Do you want to see QuantumSMP's lore?(yes/no): ")
-  if (QuantumSMPLore = 'yes'):
-    print("Server Not Up Yet")
+  if (ifQuantumSMPLore == 'yes'):
+    print("When ManePear joins he gets obby trapped at spawn by Boosfer, which he escapes with 3 hearts. After banning 3 players he gets full diamond and starts enchanting. This is when he meets Willy, who he teams with. Eventually ManePear and Willy come across Sharpness, who 2v1s them and almost wins if it weren't for Willy learning how to cart, which pops Sharpness' only totem.")
+  ifQuantumSMPVideos = input("Do you want to see QuantumSMP's videos?(yes/no): ")
+  if (ifQuantumSMPVideos == 'yes'):
+    print("\x1b[33mManePear: Surviving The Smartest SMP (2 Hours)\033[0m")
+    print("\033[90mSharpness: Becoming The Strongest On QuantumSMP (3 Hours)\033[0m")
+    print("\033[31mAnchor: Anchoring The QuantumSMP (4 Hours)\033[0m")
+    print("\033[90mWillison: My First Day On The QuantumSMP (2 Hours)\033[0m")
