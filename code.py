@@ -74,4 +74,5 @@ elif (storyFile == 'Polar Opposites'):
 elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include Manepear, Sharpness, Willison, & Anchor.")
   ifQuantumSMPLore = input("Do you want to see QuantumSMP's lore?(yes/no): ")
-  if QuantumSMPLore = 'yes':
+  if (QuantumSMPLore = 'yes'):
+    print("Server Not Up Yet")
