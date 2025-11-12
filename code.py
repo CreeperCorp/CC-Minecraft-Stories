@@ -73,6 +73,13 @@ elif (storyFile == 'Polar Opposites'):
   print("\033[35mEpisode 7: Mass Annihilation (Description: Once You See Him, It's Already Too Late)(4 Hours)\033[0m")
   print("\033[38;5;212mEpisode 8: Friend? (Description: Imperceptible Manipulation)(6 Hours)\033[0m")
 
+elif (storyFile == 'Plastic Reminder'):
+  print("After the events of Polar Opposites Boosfer has to find his way back to his original reality, before he gets trapped in the past.")
+  print("Episode 1: The Future Is The Past (Description: Time Goes By Quickly Huh?)(4 Hours)")
+  print("Episode 2: Mild Activities (Description: Boring you to death)(2 Hours)")
+  print("Episode 3: Jumbled Junction (Description: Which Way?)(5 Hours)")
+  print("Episode 4: Only One Way Out (Description: What...)(3 Hours)")
+
 elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include ManePear, Sharpness, Willison, & Anchor.")
   QuantumSMPSeen = input("Do you want to see every youtuber who has appeared in QuantumSMP?(yes/no): ")
