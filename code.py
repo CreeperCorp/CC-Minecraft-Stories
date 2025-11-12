@@ -79,6 +79,11 @@ elif (storyFile == 'Plastic Reminder'):
   print("Episode 2: Mild Activities (Description: Boring you to death)(2 Hours)")
   print("Episode 3: Jumbled Junction (Description: Which Way?)(5 Hours)")
   print("Episode 4: Only One Way Out (Description: What...)(3 Hours)")
+  print("Episode 5: No Escape For You (Description: No way Out)(4 Hours)")
+  print("Episode 6: Full Strength (Description: No Holding Back)(6 Hours)")
+  print("Episode 7: Joy In Limitation (Description: We Can't Let You Leave)(4 Hours)")
+  print("Episode 8: No Outer Layer (Description: How Is This Possible?)(4 Hours)")
+  print("Episode 9: Radiating Words (Description: This Means Nothing)(5 Hours)")
 
 elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include ManePear, Sharpness, Willison, & Anchor.")
