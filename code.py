@@ -1,4 +1,4 @@
-print("\033[0mStories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP), Polar Opposites (WonderousSMP), QuantumSMP")
+print("\033[0mStories: God Of War (WonderousSMP), Imperceptible Manipulation (WonderousSMP), The Wonderous Vault (WonderousSMP), A Wonderous Past (WonderousSMP), A Wonderous Future (WonderousSMP), Polar Opposites (WonderousSMP), QuantumSMP, Plastic Reminder (WonderousSMP)")
 
 storyFile = input("What Series Do You Want To See?: ")
 
