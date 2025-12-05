@@ -72,6 +72,7 @@ elif (storyFile == 'Polar Opposites'):
   print("\033[38;5;212mEpisode 6: Lonely (Description: He's Already Moved On)(4 Hours)\033[0m")
   print("\033[35mEpisode 7: Mass Annihilation (Description: Once You See Him, It's Already Too Late)(4 Hours)\033[0m")
   print("\033[38;5;212mEpisode 8: Friend? (Description: Imperceptible Manipulation)(6 Hours)\033[0m")
+  print("Episode 9: Polar Extreme (Description: Brrr)(9 Hours)")
 
 elif (storyFile == 'Plastic Reminder'):
   print("After the events of Polar Opposites Boosfer has to find his way back to his original reality, before he gets trapped in the past.")
