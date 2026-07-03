@@ -39,7 +39,7 @@ elif (storyFile == 'The Wonderous Vault'):
   print("Episode 9: A Defense Incapable Of Defending (Description: The Clock Is Ticking)(5 Hours)")
 
 elif (storyFile == 'A Wonderous Past'):
-  print("After discovering that CreepSplotion was about to kill UnScr3pted, the owner of the Wonderous SMP, and ban him for the next 3 seasons, Boosfer travels back in time before Season 1, to discover a way to stop it.")
+  print("After discovering that CreepSplotion was about to kill UnScr1pted, the owner of the Wonderous SMP, and ban him for the next 3 seasons, Boosfer travels back in time before Season 1, to discover a way to stop it.")
   print("Episode 1: The First First Ever Wonder (Description: Is It Truly Scripted, If There's No Script?)(7 Hours)")
   print("Episode 2: Ninety (Description: There's No Escape From Occupied)(5 Hours)")
   print("Episode 3: ImBoosfer (Description: He Can't Go Back... Or It Will Ruin Everything)(3 Hours)")
@@ -63,7 +63,7 @@ elif (storyFile == 'A Wonderous Future'):
   print("Episode 9: The Dawn Of Demise (Description: Is This The End?)(9 Hours)")
 
 elif (storyFile == 'Polar Opposites'):
-  print("After CreepSplotion kills UnScr3pted, there is no owner of the Wonderous SMP, and that means, there's no rules. From the POV of \033[35mTemp0rary\033[0m and \033[38;5;212mJoc3e\033[0m, find a way to stop CreepSplotion and ban him from the season.")
+  print("After CreepSplotion kills UnScr1pted, there is no owner of the Wonderous SMP, and that means, there's no rules. From the POV of \033[35mTemp0rary\033[0m and \033[38;5;212mJoc3e\033[0m, find a way to stop CreepSplotion and ban him from the season.")
   print("\033[35mEpisode 1: Friends... (Description: Aren't We The Closest?)(3 Hours)")
   print("\033[38;5;212mEpisode 2: ...To Enemies (Description: All Good Things Must Come To An End, I Think...)(4 Hours)")
   print("\033[35mEpisode 3: Mystifying Background (Description: It was always bound to be Temp0rary)(3 Hours)")
