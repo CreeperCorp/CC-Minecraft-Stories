@@ -80,11 +80,17 @@ elif (storyFile == 'Plastic Reminder'):
   print("Episode 2: Mild Activities (Description: Boring you to death)(2 Hours)")
   print("Episode 3: Jumbled Junction (Description: Which Way?)(5 Hours)")
   print("Episode 4: Only One Way Out (Description: What...)(3 Hours)")
-  print("Episode 5: No Escape For You (Description: No way Out)(4 Hours)")
+  print("Episode 5: No Escape For You (Description: No Way Out)(4 Hours)")
   print("Episode 6: Full Strength (Description: No Holding Back)(6 Hours)")
   print("Episode 7: Joy In Limitation (Description: We Can't Let You Leave)(4 Hours)")
   print("Episode 8: No Outer Layer (Description: How Is This Possible?)(4 Hours)")
   print("Episode 9: Radiating Words (Description: This Means Nothing)(5 Hours)")
+
+elif (storyFile == 'Tangible Doom'):
+  print("After the events of Plastic Reminder Boosfer has to stop CreepSplotion from completely destroying the WonderousSMP, along with help from ManePear.")
+  print("Episode 1: I Heard That (Description: Shh...)(5 Hours)")
+  print("Episode 2: Mane Mistake (Description: What a peary situation)(8 Hours)")
+
 
 elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include ManePear, Sharpness, Willison, & Anchor.")
@@ -171,7 +177,10 @@ elif (storyFile == 'QuantumSMP'):
     print("\x1b[30mWillison: Becoming A Redstone Genius (10 Hours)(8/1/26)\033[0m")
     print("\033[90mSharpness: The Sharpest Sword (7 Hours)(8/10/26)\033[0m")
     print("\x1b[33mManePear: I Created A Monopoly On This Minecraft SMP (24 Hours)(8/15/26)\033[0m")
-    print("\x1b[33mManePear: Creating The End Of World (24 Hours)(8/15/26)\033[0m")
+    print("\x1b[33mManePear: Creating The End Of World (24 Hours)(8/18/26)\033[0m")
+    print("\x1b[30mWillison: Looking For My Lost Friend (13 Hours)(8/27/26)\033[0m")
+    print("\x1b[33mManePear: Protecting My Secret Civilization (24 Hours)(9/11/26)\033[0m")
+    
 
     
     
