@@ -90,11 +90,11 @@ elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include ManePear, Sharpness, Willison, & Anchor.")
   QuantumSMPSeen = input("Do you want to see every youtuber who has appeared in QuantumSMP?(yes/no): ")
   if (QuantumSMPSeen == 'yes'):
-    print("ManePear (Full Neth Armor), Boosfer (Speedrunner, Elytra), Willison (Full Neth Armor, Carter), Sharpness (Full Netherite), Spoke (NETH HELM (SHARPNESS)), Reddoons, Sapnap (Speedrunner), Baablu (NETH CHEST (SHARPNESS), Speedrunner), Anchor (Crystal & Anchor), Fantst (Speedrunner, Elytra), Dream (Speedrunner), Rekrap2 (Speedrunner, Elytra), Boomie, YungWillx, Minutech, Spongs, Pangi, JaidenMan (Mace Wielder), RenderingFrames (OBSC), Pentar, Falconu, Skeppy (NETH HELM), JumperWho (DEAD), PrinceZam (NETH BOOTS (SHARPNESS)), LettuceK, HavenHand, MylesYoutube (DEAD), Jojosolos, UnScr1pted (Full Neth), Billy (BLOX), Henry (BLOX), Wisp, SpeedSilver, Sword4000, Leowook (Carter), TheoBaldTheBird (Carter), Lowkey (Speedrunner, Elytra).")
+    print("ManePear (Full Neth Armor), Boosfer (Speedrunner, Elytra), Willison (Full Neth Armor, Carter), Sharpness (Full Netherite), Spoke (NETH HELM (SHARPNESS)), Reddoons, Sapnap (Speedrunner), Baablu (NETH CHEST (SHARPNESS), Speedrunner), Anchor (Crystal & Anchor), Fantst (Speedrunner, Elytra), Dream (Speedrunner), Rekrap2 (Speedrunner, Elytra), Boomie, YungWillx, Minutech, Spongs, Pangi, JaidenMan (Mace Wielder), RenderingFrames (OBSC), Pentar (The Overworld), Falconu, Skeppy (NETH HELM), JumperWho (DEAD), PrinceZam (NETH BOOTS (SHARPNESS)), LettuceK, HavenHand, MylesYoutube (DEAD), Jojosolos, UnScr1pted (Full Neth), Billy (BLOX), Henry (BLOX), Wisp, SpeedSilver, Sword4000, Leowook (Carter), TheoBaldTheBird (Carter), Lowkey (Speedrunner, Elytra), FlameFrags (Full Neth, Expo), Wemmbu (Elytra, 2 Maces, Full Neth), Dr.Donutt (Crystal, Full Neth-Boots), K1RBE (Crystal, Full Neth).")
   ifQuantumSMPTeams = input("Do you want to see QuantumSMP's teams?(yes/no): ")
   if (ifQuantumSMPTeams == 'yes'):
     print("WillyPear (\x1b[33mManePear\033[0m-\x1b[30mWillison\033[0m); Allies: Hieroglyphic, Enemies: \033[90mSharpness\033[0m-Boosfer")
-    print("\033[31mAnchor\033[0m; Allies: Skeppy, Enemies: Sharpness")
+    print("\033[31mAnchor\033[0m; Allies: Skeppy, Dr. Donutt, K1RBE, Enemies: Sharpness")
     print("\033[90mSharpness\033[0m; Allies: PrinceZam, Enemies: WillyPear-Spoke-The Quadralent")
     print("The Quadralent (YungWillx-Minutech-Spongs-Pangi-JaidenMan-RenderingFrames-Pentar-Falconu (Leader)); Allies: Boosfer, Enemies: Anchor-WillyPear-Sharpness")
     print("Pink Lemonade (JumperWho (DEAD)-PrinceZam); Allies: Sharpness, Enemies: Anchor & Skeppy")
@@ -109,6 +109,9 @@ elif (storyFile == 'QuantumSMP'):
     print("Always Watching: A castle in the nether built by The Watch. First Seen: Anchor's (Saving My Friend On The QuantumSMP). Seen in: ManePear's (Surviving The Nether On Minecraft's Smartest SMP).")
     print("The Sharpest Prison: A prison built by Sharpness to keep QuantumSMP's greatest players hostage. This includes Baablu, Willison, Skeppy, LettuceK, Jojosolos, Leowook, Falconu, & Spoke (There were other's but they weren't the greatest players). Anchor and ManePear were attempted convicts but they were able to dodge prison, Sharpness was trying to lure them in by trapping Skeppy & Willison. First Seen: Anchor's (Saving My Friend On The QuantumSMP). Seen in: ManePear's (Surviving The Nether On Minecraft's Smartest SMP).")
     print("WillyPear Base 2: Willison and ManePear's second base, partially built by Hieroglyphics. First Seen: ManePear's (Surviving The Nether On Minecraft's Smartest SMP). Seen in: Nothing Else.")
+    print("The Overworld: A place above the main world")
+    print("The Border: A place in the void beyond the End")
+    print("The End Of World: Created by ManePear, is the bounds of the main world, a secret civilization only known by few")
   ifQuantumSMPLore = input("Do you want to see QuantumSMP's lore?(yes/no): ")
   if (ifQuantumSMPLore == 'yes'):
     QuantumSMPLoreChoice = input("Who's lore do you want to see?: ")
@@ -164,5 +167,12 @@ elif (storyFile == 'QuantumSMP'):
     print("\033[90mSharpness: My Friend, (7 Hours)(7/1/26)\033[0m")
     print("\033[90mSharpness: Or... My Enemy (11 Hours)(7/2/26)\033[0m")
     print("\x1b[33mManePear: Freeing My New Friend (15 Hours)(7/3/26)\033[0m")
+    print("\033[31mAnchor: I Surived Minecraft's Most Encapsulating SMP (12 Hours)(7/5/26)\033[0m")
+    print("\x1b[30mWillison: Becoming A Redstone Genius (10 Hours)(8/1/26)\033[0m")
+    print("\033[90mSharpness: The Sharpest Sword (7 Hours)(8/10/26)\033[0m")
+    print("\x1b[33mManePear: I Created A Monopoly On This Minecraft SMP (24 Hours)(8/15/26)\033[0m")
+    print("\x1b[33mManePear: Creating The End Of World (24 Hours)(8/15/26)\033[0m")
+
+    
     
     
