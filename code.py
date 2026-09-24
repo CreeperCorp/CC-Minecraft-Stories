@@ -96,7 +96,7 @@ elif (storyFile == 'QuantumSMP'):
   print("QuantumSMP is a public scripted hardcore server with many different youtubers and random people, similar to Unstable Universe. Current owners include ManePear, Sharpness, Willison, & Anchor.")
   QuantumSMPSeen = input("Do you want to see every youtuber who has appeared in QuantumSMP?(yes/no): ")
   if (QuantumSMPSeen == 'yes'):
-    print("ManePear (Full Neth Armor), Boosfer (Speedrunner, Elytra), Willison (Full Neth Armor, Carter), Sharpness (Full Netherite), Spoke (NETH HELM (SHARPNESS)), Reddoons, Sapnap (Speedrunner), Baablu (NETH CHEST (SHARPNESS), Speedrunner), Anchor (Crystal & Anchor), Fantst (Speedrunner, Elytra), Dream (Speedrunner), Rekrap2 (Speedrunner, Elytra, Dragon Egg), Boomie, YungWillx, Minutech, Spongs, Pangi, JaidenMan (Mace Wielder), RenderingFrames (OBSC), Pentar (The Overworld), Falconu, Skeppy (NETH HELM), JumperWho (DEAD), PrinceZam (NETH BOOTS (SHARPNESS)), LettuceK, HavenHand, MylesYoutube (DEAD), Jojosolos, UnScr1pted (Full Neth), Billy (BLOX), Henry (BLOX), Wisp, SpeedSilver, Sword4000, Leowook (Carter), TheoBaldTheBird (Carter), Lowkey (Speedrunner, Elytra), FlameFrags (Full Neth, Expo), Wemmbu (Elytra, 2 Maces, Full Neth), Dr.Donutt (Crystal, Full Neth-Boots), K1RBE (Crystal, Full Neth).")
+    print("ManePear (Full Neth Armor, The Overworld, The End Of The World, The Creeper Conjucture), Boosfer (Speedrunner, Elytra), Willison (Full Neth Armor, Carter), Sharpness (Full Netherite), Spoke (NETH HELM (SHARPNESS)), Reddoons, Sapnap (Speedrunner), Baablu (NETH CHEST (SHARPNESS), Speedrunner), Anchor (Crystal & Anchor), Fantst (Speedrunner, Elytra), Dream (Speedrunner), Rekrap2 (Speedrunner, Elytra, Dragon Egg), Boomie, YungWillx, Minutech, Spongs, Pangi, JaidenMan (Mace Wielder), RenderingFrames (OBSC), Pentar (The Overworld, The End Of The World, The Creeper Conjucture), Falconu, Skeppy (NETH HELM), JumperWho (DEAD), PrinceZam (NETH BOOTS (SHARPNESS)), LettuceK, HavenHand, MylesYoutube (DEAD), Jojosolos, UnScr1pted (Full Neth), Billy (BLOX), Henry (BLOX), Wisp, SpeedSilver, Sword4000, Leowook (Carter), TheoBaldTheBird (Carter), Lowkey (Speedrunner, Elytra), FlameFrags (Full Neth, Expo), Wemmbu (Elytra, 2 Maces, Full Neth), Dr.Donutt (Crystal, Full Neth-Boots), K1RBE (Crystal, Full Neth).")
   ifQuantumSMPTeams = input("Do you want to see QuantumSMP's teams?(yes/no): ")
   if (ifQuantumSMPTeams == 'yes'):
     print("WillyPear (\x1b[33mManePear\033[0m-\x1b[30mWillison\033[0m); Allies: Hieroglyphic, Enemies: \033[90mSharpness\033[0m-Boosfer")
@@ -115,9 +115,10 @@ elif (storyFile == 'QuantumSMP'):
     print("Always Watching: A castle in the nether built by The Watch. First Seen: Anchor's (Saving My Friend On The QuantumSMP). Seen in: ManePear's (Surviving The Nether On Minecraft's Smartest SMP).")
     print("The Sharpest Prison: A prison built by Sharpness to keep QuantumSMP's greatest players hostage. This includes Baablu, Willison, Skeppy, LettuceK, Jojosolos, Leowook, Falconu, & Spoke (There were other's but they weren't the greatest players). Anchor and ManePear were attempted convicts but they were able to dodge prison, Sharpness was trying to lure them in by trapping Skeppy & Willison. First Seen: Anchor's (Saving My Friend On The QuantumSMP). Seen in: ManePear's (Surviving The Nether On Minecraft's Smartest SMP).")
     print("WillyPear Base 2: Willison and ManePear's second base, partially built by Hieroglyphics. First Seen: ManePear's (Surviving The Nether On Minecraft's Smartest SMP). Seen in: Nothing Else.")
-    print("The Overworld: A place above the main world")
-    print("The Border: A place in the void beyond the End")
-    print("The End Of World: Created by ManePear, is the bounds of the main world, a secret civilization only known by few")
+    print("The Overworld: A place above the main world; Known by ManePear, Pentar, Sharpness.")
+    print("The Border: A place in the void beyond the End; Known by every protagonist.")
+    print("The End Of World: Created by ManePear, is the bounds of the main world, a secret civilization only known by few; Known by ManePear, Pentar, Willsion.")
+    print("The Inner Void: A place beneath the void of the main world, similar to The Overworld, except everything is darkly enchanted, and souls detoriate within its presence; Known by Sharpness & FlameFrags.")
   ifQuantumSMPLore = input("Do you want to see QuantumSMP's lore?(yes/no): ")
   if (ifQuantumSMPLore == 'yes'):
     QuantumSMPLoreChoice = input("Who's lore do you want to see?: ")
@@ -183,6 +184,8 @@ elif (storyFile == 'QuantumSMP'):
     print("\x1b[30mWillison: Exploring The End Of The World (15 Hours)(9/20/26)(S3E8)\033[0m")
     print("\033[90mSharpness: A One Vs One (10 Hours)(9/25/26)(S3E12)\033[0m")
     print("\x1b[33mManePear: The Creeper Conjecture (24 Hours)(9/28/26)(S3E7)\033[0m")
+    print("\x1b[33mManePear: Creeper Consultation (24 Hours)(9/29/26)(S3E8)\033[0m")
+    print("\033[90mSharpness: Destroying Minecraft's Most Sacred Domain (13 Hours)(9/30/26)(S3E13)\033[0m")
     
 
     
