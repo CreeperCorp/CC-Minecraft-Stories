@@ -119,6 +119,7 @@ elif (storyFile == 'QuantumSMP'):
     print("The Border: A place in the void beyond the End; Known by every protagonist.")
     print("The End Of World: Created by ManePear, is the bounds of the main world, a secret civilization only known by few; Known by ManePear, Pentar, Willsion.")
     print("The Inner Void: A place beneath the void of the main world, similar to The Overworld, except everything is darkly enchanted, and souls detoriate within its presence; Known by Sharpness & FlameFrags.")
+    print("The Creeper Conjecture: The Oracle of CreepSplotion, the first oracle, but not the last; Known by ManePear & Pentar.")
   ifQuantumSMPLore = input("Do you want to see QuantumSMP's lore?(yes/no): ")
   if (ifQuantumSMPLore == 'yes'):
     QuantumSMPLoreChoice = input("Who's lore do you want to see?: ")
@@ -186,6 +187,7 @@ elif (storyFile == 'QuantumSMP'):
     print("\x1b[33mManePear: The Creeper Conjecture (24 Hours)(9/28/26)(S3E7)\033[0m")
     print("\x1b[33mManePear: Creeper Consultation (24 Hours)(9/29/26)(S3E8)\033[0m")
     print("\033[90mSharpness: Destroying Minecraft's Most Sacred Domain (13 Hours)(9/30/26)(S3E13)\033[0m")
+    print("\x1b[33mManePear: A Warning To Heed (24 Hours)(10/1/26)(S3E9)\033[0m")
     
 
     
