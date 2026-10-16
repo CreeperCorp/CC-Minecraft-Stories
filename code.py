@@ -90,6 +90,8 @@ elif (storyFile == 'Tangible Doom'):
   print("After the events of Plastic Reminder Boosfer has to stop CreepSplotion from completely destroying the WonderousSMP, along with help from ManePear.")
   print("Episode 1: I Heard That (Description: Shh...)(5 Hours)")
   print("Episode 2: Mane Mistake (Description: What a peary situation)(8 Hours)")
+  print("Episode 3: Proportionally (Description: Factor)(9 Hours)")
+  print("Episode 4: Vilometer (Description: What's that mean?)(7 Hours)")
 
 
 elif (storyFile == 'QuantumSMP'):
